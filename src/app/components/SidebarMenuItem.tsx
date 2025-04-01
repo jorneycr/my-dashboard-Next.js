@@ -7,7 +7,7 @@ import { JSX } from "react";
 interface Props {
     path: string;
     icon: JSX.Element;
-    title: String;
+    title: string;
     subTitle: string;
 }
 
